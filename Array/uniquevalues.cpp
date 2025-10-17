@@ -3,7 +3,7 @@
 #include <limits.h>
 using namespace std;
 
-int uniqueArr[6]
+int uniqueArr[6];
 
 int uniqueValues(int arr[], int size){
   
