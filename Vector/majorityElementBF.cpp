@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+// Majority Element using Brute Force Approach
 vector<int> majorityElement(vector<int>& nums) {
     int n = nums.size();
     

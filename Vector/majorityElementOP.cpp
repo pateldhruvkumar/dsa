@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+// Majority Element using Optimized Approach
 int majorityElement(vector<int>& nums) {
     int n = nums.size();
 

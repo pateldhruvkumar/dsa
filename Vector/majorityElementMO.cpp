@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+// Majority Element using Moore's Voting Algorithm
 int majorityElement(vector<int>& nums) {
     int freq = 0, ans = 0;
 
